@@ -1,4 +1,5 @@
 sphinx>2
 sphinxcontrib-bibtex
 sphinxcontrib-programoutput
+guzzle_sphinx_theme
 numpy
